@@ -1,0 +1,15 @@
+.game {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .board {
+    border: 3px solid #3f5557;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
